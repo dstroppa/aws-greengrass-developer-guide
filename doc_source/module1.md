@@ -226,7 +226,7 @@ If you are new to AWS Greengrass, we recommend that you use a Raspberry Pi or an
 
    ```
    git clone https://github.com/aws-samples/aws-greengrass-samples.git
-   cd greengrass-dependency-checker-GGCv1.5.0 
+   cd aws-greengrass-samples/greengrass-dependency-checker-GGCv1.5.0 
    sudo ./check_ggc_dependencies
    ```
 
